@@ -142,7 +142,7 @@ Follow these steps to set up and run the application locally:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Calendar-Application-for-Communication-Tracking.git
+   git clone https://github.com/azhar707/ENTNT-calender-Application-for-communication-Trackng.git
 Navigate to the project directory:
 
 bash
