@@ -213,7 +213,7 @@ Usage of the code or materials for commercial purposes requires prior written pe
 
 ## 👨‍💻 Author
 Bagwan Azhar
-Feel free to reach out for questions or feedback via email: [your-email@example.com]
+Feel free to reach out for questions or feedback via email: [bagwanazhar193@gmail.com]
 
 ## 🙏 Thank You!
 Thank you for checking out my project! Your feedback is always welcome.
