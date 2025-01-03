@@ -8,7 +8,7 @@
 
 The application is deployed on **Vercel** and can be accessed here:  
 
-[Live Demo](https://your-vercel-deployment-url.vercel.app/)  
+[Live Demo](https://entnt-calender-application-for-communication-trackng-dpmx5cefi.vercel.app/)  
 
 ---
 
